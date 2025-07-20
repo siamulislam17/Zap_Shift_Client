@@ -1,0 +1,104 @@
+[
+  {
+    "division": "Dhaka",
+    "districts": [
+      "Dhaka",
+      "Gazipur",
+      "Kishoreganj",
+      "Manikganj",
+      "Munshiganj",
+      "Narayanganj",
+      "Narsingdi",
+      "Tangail",
+      "Faridpur",
+      "Gopalganj",
+      "Madaripur",
+      "Shariatpur"
+    ]
+  },
+  {
+    "division": "Chattogram",
+    "districts": [
+      "Chattogram",
+      "Cox's Bazar",
+      "Comilla",
+      "Feni",
+      "Khagrachari",
+      "Lakshmipur",
+      "Noakhali",
+      "Rangamati",
+      "Brahmanbaria",
+      " Chandpur"
+    ]
+  },
+  {
+    "division": "Khulna",
+    "districts": [
+      "Khulna",
+      "Bagerhat",
+      "Chuadanga",
+      "Jashore",
+      "Jhenaidah",
+      "Kushtia",
+      "Magura",
+      "Meherpur",
+      "Narail",
+      "Satkhira"
+    ]
+  },
+  {
+    "division": "Rajshahi",
+    "districts": [
+      "Rajshahi",
+      "Bogra",
+      "Joypurhat",
+      "Naogaon",
+      "Natore",
+      "Chapainawabganj",
+      "Pabna",
+      "Sirajganj"
+    ]
+  },
+  {
+    "division": "Barishal",
+    "districts": [
+      "Barishal",
+      "Barguna",
+      "Bhola",
+      "Jhalokati",
+      "Patuakhali",
+      "Pirojpur"
+    ]
+  },
+  {
+    "division": "Sylhet",
+    "districts": [
+      "Sylhet",
+      "Habiganj",
+      "Moulvibazar",
+      "Sunamganj"
+    ]
+  },
+  {
+    "division": "Rangpur",
+    "districts": [
+      "Rangpur",
+      "Dinajpur",
+      "Kurigram",
+      "Lalmonirhat",
+      "Nilphamari",
+      "Panchagarh",
+      "Thakurgaon",
+      "Gaibandha"
+    ]
+  },
+  {
+    "division": "Mymensingh",
+    "districts": [
+      "Mymensingh",
+      "Jamalpur",
+      "Netrokona",
+      "Sherpur"
+    ]
+  }
+]

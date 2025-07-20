@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import 'leaflet/dist/leaflet.css';
+
+
+/*google font links*/
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+.urbanist{
+  font-family: 'Urbanist', sans-serif;
+}
+
+.btn-primary {
+  @apply bg-[#CAEB66] text-black hover:bg-[#A8D34B] focus:bg-[#A8D34B] border-none;
+}
+
+.active {
+  @apply bg-[#A8D34B] text-gray-900 text-white  p-1.5 px-3 rounded-md mx-1 ;
+}
+
