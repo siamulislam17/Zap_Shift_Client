@@ -10,6 +10,20 @@
 
 ---
 
+## 🧪 Test Credentials
+
+Use these accounts to explore the app features:
+
+### ✅ Admin Account
+- **Email:** `biral25@gmail.com`
+- **Password:** `ABab12`
+
+### ✅ Rider Account
+- **Email:** `biral17@gmail.com`
+- **Password:** `ABab12`
+
+---
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -40,5 +54,6 @@
 
 ---
 
-## 📁 Folder Structure
+
+
 
